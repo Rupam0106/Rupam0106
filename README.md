@@ -39,4 +39,4 @@ I'm Rupam Gupta, a passionate developer with a love for coding and problem-solvi
 - Twitter: [@MrRupamGupta](https://twitter.com/MrRupamGupta)
 - Personal Website: [ProgrammingYatra](https://www.programmingyatra.in)
 
-⭐️ From [ProgrammingYatra](https://github.com/ProgrammingYatra)
+⭐️ From [ProgrammingYatra](https://www.programmingyatra.in)
