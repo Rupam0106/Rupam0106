@@ -9,7 +9,7 @@ I'm Rupam Gupta, a passionate developer with a love for coding and problem-solvi
 - 🤔 I’m looking for help with Coding.
 - 💬 Ask me about Anything.
 - 📫 How to reach me: [Email](mailto:guptarupam.1020@gmail.com), [LinkedIn](https://www.linkedin.com/in/mr-rupam-gupta/), [ProgrammingYatra](https://www.programmingyatra.in), [MrRupamGupta](https://twitter.com/MrRupamGupta)
-- 😄 Pronouns: Dev Gupta
+- 😄 Pronouns: Ram Gupta
 
 ## 🔧 Technologies & Tools
 
